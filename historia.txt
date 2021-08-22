@@ -4,3 +4,5 @@ al parecer primero debo agregar git add y luego el git commit para que funciones
 esta nueva versión si sale sigo hermosa 
 
 su vida es maravillosa 
+
+cambio de maestrias y est cada
