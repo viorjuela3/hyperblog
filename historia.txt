@@ -2,3 +2,5 @@ voy a empezar de nuevo
 cambio 1 para verficiar 
 al parecer primero debo agregar git add y luego el git commit para que funciones voy hacer la prueba con
 esta nueva versión si sale sigo hermosa 
+
+su vida es maravillosa 
