@@ -1,8 +1,12 @@
 body{
+<<<<<<< HEAD
     color : yellow;
+=======
+    color : :read;
+>>>>>>> cabecera
     text-align: center;
-    font-family: "arial";
-    font-size: 16px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 30px;
 }
 
 #container
@@ -10,11 +14,29 @@ body{
     width: 70%;
     padding: 1em;
     text-align: left;
-    border: 1px solid green;
+    border: 5px solid green;
     margin: 0 auto;
 }
 
 #container h1
 {
     font-size: 20px;
+}
+
+#cabecera
+{
+    background: red;
+    box-shadow: 0px 2px 50px 0px rgba(0,0,0,0.75;
+    color: blueviolet;
+    font-weight: bold;
+    margin: 0;
+    padding: 0;
+}
+
+
+#cabecera #tagline
+{
+    padding: 0 0 0 3em;
+    font-weight: normal;
+    font-size: 0.8em;
 }
