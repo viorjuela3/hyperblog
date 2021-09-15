@@ -36,3 +36,11 @@ body{
     font-weight: normal;
     font-size: 0.8em;
 }
+
+#footer
+{
+background: blue;
+color: chartreuse;
+text-align: center;
+padding: 5em;
+}
